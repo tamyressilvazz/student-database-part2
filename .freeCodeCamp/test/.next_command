@@ -133,3 +133,8 @@ chmod +x student_info.sh
 clear
 ./student_info.sh
 clear
+git branch
+git checkout -b test
+git branch
+git status
+git add .
