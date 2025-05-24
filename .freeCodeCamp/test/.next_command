@@ -145,3 +145,4 @@ git push --set-upstream origin test
 clear
 psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
+git add .
