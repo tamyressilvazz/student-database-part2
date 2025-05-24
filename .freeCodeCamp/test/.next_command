@@ -393,3 +393,4 @@ clear
 clear
 ./student_info.sh
 clear
+psql --username=freecodecamp --dbname=postgres
