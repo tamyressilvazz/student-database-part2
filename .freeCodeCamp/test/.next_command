@@ -138,3 +138,8 @@ git checkout -b test
 git branch
 git status
 git add .
+git remote set-url origin https://github.com/tamyressilvazz/student-database-part2.git
+git commit -m "student_info script"
+git push
+git push --set-upstream origin test
+clear
