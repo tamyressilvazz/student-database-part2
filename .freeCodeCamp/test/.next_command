@@ -390,3 +390,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql -U postgres < students.sql
 clear
 ./student_info.sh
+clear
+./student_info.sh
