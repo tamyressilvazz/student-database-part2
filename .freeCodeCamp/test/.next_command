@@ -469,3 +469,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 git status
 git add .
+./student_info.sh
