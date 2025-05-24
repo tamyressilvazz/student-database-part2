@@ -143,3 +143,4 @@ git commit -m "student_info script"
 git push
 git push --set-upstream origin test
 clear
+psql --username=freecodecamp --dbname=postgres
