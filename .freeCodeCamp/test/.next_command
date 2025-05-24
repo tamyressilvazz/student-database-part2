@@ -470,3 +470,5 @@ psql --username=freecodecamp --dbname=postgres
 git status
 git add .
 ./student_info.sh
+clear
+git branch
