@@ -474,3 +474,4 @@ clear
 git branch
 __vsc_prompt_cmd_original
 ./student_info.sh
+./student_info.sh
