@@ -472,3 +472,5 @@ git add .
 ./student_info.sh
 clear
 git branch
+__vsc_prompt_cmd_original
+./student_info.sh
